@@ -16,7 +16,6 @@ import java.util.HashMap;
 import java.util.Map;
 
 @Configuration
-@MapperScan(basePackages = "com.dubbo.server.dubboserver.dao")
 public class MultipleDataSource {
 
     @Bean

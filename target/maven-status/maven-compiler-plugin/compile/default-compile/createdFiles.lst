@@ -1,0 +1,7 @@
+com\suruns\multiple\mybatis\db\MultipleDataSource.class
+com\suruns\multiple\mybatis\db\DynamicDataSource.class
+com\suruns\multiple\mybatis\Main.class
+com\suruns\multiple\mybatis\db\DataSourceType.class
+com\suruns\multiple\mybatis\db\AopDataSource.class
+com\suruns\multiple\mybatis\annotation\ReadOnly.class
+com\suruns\multiple\mybatis\db\DataSourceContextHolder.class
